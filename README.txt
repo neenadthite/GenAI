@@ -10,7 +10,7 @@ pip install langchain_community</br>
 Generate your OpenAI API key. It will be needed to paste in the src_chatbot.py file</br>
 
 Run streamlit:</br>
-streamlit run chatbot.py</br>
+streamlit run src_chatbot.py</br>
 This will open the website in on your local host.</br>
 
 Upload the respective document, Enter your question and Get the result!!</br>
